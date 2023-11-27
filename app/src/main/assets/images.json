@@ -1,0 +1,19 @@
+{
+  "images": [
+    {"name": "Photo 1", "url": "https://source.unsplash.com/featured/?nature"},
+    {"name": "Photo 2", "url": "https://source.unsplash.com/featured/?travel"},
+    {"name": "Photo 3", "url": "https://source.unsplash.com/featured/?technology"},
+    {"name": "Photo 4", "url": "https://source.unsplash.com/featured/?architecture"},
+    {"name": "Photo 5", "url": "https://source.unsplash.com/featured/?food"},
+    {"name": "Photo 1", "url": "https://source.unsplash.com/featured/?nature"},
+    {"name": "Photo 2", "url": "https://source.unsplash.com/featured/?architecture"},
+    {"name": "Photo 3", "url": "https://source.unsplash.com/featured/?travel"},
+    {"name": "Photo 4", "url": "https://source.unsplash.com/featured/?technology"},
+    {"name": "Photo 5", "url": "https://source.unsplash.com/featured/?food"},
+    {"name": "Photo 1", "url": "https://source.unsplash.com/featured/?nature"},
+    {"name": "Photo 2", "url": "https://source.unsplash.com/featured/?architecture"},
+    {"name": "Photo 3", "url": "https://source.unsplash.com/featured/?travel"},
+    {"name": "Photo 4", "url": "https://source.unsplash.com/featured/?technology"},
+    {"name": "Photo 5", "url": "https://source.unsplash.com/featured/?food"}
+  ]
+}

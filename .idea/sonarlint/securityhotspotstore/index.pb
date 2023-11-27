@@ -1,0 +1,23 @@
+
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+i
+9app/src/main/java/com/sam/picsapp/data/model/ImageData.kt,a\8\a8a6a0bc6de97d252946e130a4c2572ab5387e3f
+g
+7app/src/main/java/com/sam/picsapp/data/PicRepository.kt,f\1\f1154f11a8be7dbb6e39fc4b204cbbcfadac9805
+d
+4app/src/main/java/com/sam/picsapp/ui/PicViewModel.kt,d\5\d571192c8127a4b71cd1dcfb8c8213d6c72d7c94
+d
+4app/src/main/java/com/sam/picsapp/ui/MainActivity.kt,0\e\0ededadf35d930ff1dd770ddf325948fbea648ba
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+c
+3app/src/main/java/com/sam/picsapp/PicApplication.kt,8\f\8fe88d89d576da54d3c5e8cd6c1a198e0ad30bb2
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+d
+4app/src/main/java/com/sam/picsapp/ui/ImageAdapter.kt,2\4\24b035baf6dfa6b25c5adca11201c89ff85fa66b
+o
+?app/src/main/java/com/sam/picsapp/ui/adapter/CarouselAdapter.kt,c\f\cf49a661a8bbd038b0b304a6dfbcbe73412a7788
+l
+<app/src/main/java/com/sam/picsapp/ui/adapter/ImageAdapter.kt,6\6\66a72208313bc81215a9acc5c5e0109ec542a7c6
