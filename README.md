@@ -1,4 +1,4 @@
-# pic-app
+# Pics-app
 
 An Android app that allows users to view images in a carousel and list format. The app supports image search, and the carousel collapses dynamically as the user scrolls. It utilizes Hilt for dependency injection, Glide for image loading, follows the MVVM architecture pattern, integrates coroutines for asynchronous programming, and employs view binding for efficient view access. The image data is statically added in the assets folder.
 
